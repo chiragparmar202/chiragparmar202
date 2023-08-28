@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @chiragparmar202
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning SQL , Python , MatplotLib
+- I am a data Enthusiast
+- 👀 I’m interested in Data Analysis , Data Cleaning , Creating Dashboards ,Driving meaningfull insights  
+- 🌱  MySQL , Python , Excel , tableau , Adobe illustrator , Powerpoint Presentation etc   
 - 💞️ I’m looking to collaborate on SQLDataBase or any
 - 📫 How to reach me https://www.linkedin.com/in/chirag-parmar-5148269a/
 
